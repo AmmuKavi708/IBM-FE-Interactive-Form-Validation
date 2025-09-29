@@ -1,10 +1,10 @@
-📝 Interactive Form Validation
-📌 Project Overview
+**📝 Interactive Form Validation**
+**📌 Project Overview**
 
 A React-based interactive form validation system.
 It validates user inputs in real-time and provides instant feedback to improve user experience. 🚀
 
-✨ Features
+**✨ Features**
 
 🧑 Name, Email, Password, Confirm Password validation
 
@@ -17,10 +17,11 @@ It validates user inputs in real-time and provides instant feedback to improve u
 🎨 Styled responsive UI
 
 🖼️ Screenshot / Demo
+![Form Output](output1.png)
+![Form Output](output2.png)
 
 
-
-🚀 Deployment Steps
+**🚀 Deployment Steps**
 1️⃣ Clone the Repository
 git clone <your_repo_url>
 cd Interactive-Form-Validation
@@ -41,7 +42,7 @@ npm run build
 
 Deploy the contents of the build folder to Netlify or Vercel ⚡
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 
 ⚛️ React
 
@@ -49,7 +50,7 @@ Deploy the contents of the build folder to Netlify or Vercel ⚡
 
 🎨 CSS
 
-📂 Project Folder Structure
+**📂 Project Folder Structure**
 Interactive-Form-Validation/
 │── public/
 │    └── index.html
@@ -60,7 +61,7 @@ Interactive-Form-Validation/
 │── package.json       # Dependencies
 └── README.md          # Project documentation
 
-✅ Future Enhancements
+**✅ Future Enhancements**
 
 🔗 Connect with a backend API
 
